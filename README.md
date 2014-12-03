@@ -218,5 +218,4 @@ Initial release.
 
 ## Author
 
-[Mike Zarandona](http://twitter.com/mikezarandona) | [mikezarandona.com](http://mikezarandona.com)
-I'm a front-end web developer at [DynamiX Web Design](http://dynamixwd.com).
+[Mike Zarandona](http://twitter.com/mikezarandona) | [mike.zarandona.com](http://mike.zarandona.com)
